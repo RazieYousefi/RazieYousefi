@@ -5,6 +5,6 @@ My background in physics, where I developed mathematical models and computationa
 As Co-Founder and Chief Data Scientist at CompuFlair LLC, a Houston-based data analysis consulting firm, I help organizations make informed decisions through expert consultation, experimental design, and advanced machine learning techniques. Our team specializes in analyzing complex biological and biomedical datasets, including genomics and neuroscience, with a passion for uncovering insights into brain function and disease mechanisms.
 
 
-#### How to reach me: ryousefi@compu-flair.com
+#### How to reach me: razieyousefy@gmail.com
 
 
