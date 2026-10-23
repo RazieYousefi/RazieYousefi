@@ -1,8 +1,6 @@
 # About me
 
-I specialize in developing analytical frameworks that bridge physics, machine learning, and biomedical research. 
-My background in physics, where I developed mathematical models and computational tools to analyze complex systems, has shaped my problem-solving approach through a strong foundation in quantitative modeling.
-As Co-Founder and Chief Data Scientist at CompuFlair LLC, a Houston-based data analysis consulting firm, I help organizations make informed decisions through expert consultation, experimental design, and advanced machine learning techniques. Our team specializes in analyzing complex biological and biomedical datasets, including genomics and neuroscience, with a passion for uncovering insights into brain function and disease mechanisms.
+I am a mathematical physicist and data scientist specializing in predictive modeling, statistical learning, and biomarker discovery in high-dimensional biological and genomics data. My work focuses on develop-ing reproducible machine learning frameworks for biomarker detection, model evaluation, and data-driven analysis in biomedical research. I transform complex real-world systems into quantitative models and build scalable analytical pipelines using statistical modeling, machine learning, and computational methods.
 
 
 #### How to reach me: razieyousefy@gmail.com
